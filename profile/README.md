@@ -1,9 +1,10 @@
-# DMS 11기
+# Semi Wiki
 
-DMS 11기 프로젝트 방
+대덕소프트웨어마이스터고의 모든 정보를  
+SemiWiki에서 만나보세요!  
 
 ## 소개
-DMS의 11기 학생들이 방학동안 프로젝트를 진행하는 팀입니다.
+Semi Wiki라는 대덕 소프트웨어 마이스터고만을 위한 위키 사이트를 운영하는 개인 팀입니다
 
 ## 팀원 소개
 
@@ -11,7 +12,7 @@ DMS의 11기 학생들이 방학동안 프로젝트를 진행하는 팀입니다
 |-----------|----------------
 | [@yunho09](https://github.com/yunho09) | Frontend DEV 
 | [@JAEJUN090210](https://github.com/JAEJUN090210) | Frontend DEV
-| [@Namwoo728](https://github.com/Namwoo728) | Backend DEV, PM
+| [@cowtree28](https://github.com/cowtree28) | Backend DEV, PM
 | [@ashxom](https://github.com/ashxom) | Android DEV
 | [@jsl0118](https://github.com/jsl0118) | Frontend DEV
 | [@yellowstarr0323](https://github.com/yellowstarr0323) | Backend DEV
