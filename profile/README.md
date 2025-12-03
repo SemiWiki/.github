@@ -17,4 +17,5 @@ Semi Wiki라는 대덕 소프트웨어 마이스터고만을 위한 위키 사�
 | [@jsl0118](https://github.com/jsl0118) | Frontend DEV
 | [@yellowstarr0323](https://github.com/yellowstarr0323) | Backend DEV
 | [@wjddlfdnd](https://github.com/wjddlfdnd) | Design
+| [@kimsaram32](https://github.com/kimsaram32) | DevOps
 
